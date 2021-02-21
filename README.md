@@ -1,6 +1,8 @@
 I'm a student at Olin College of Engineering studying electrical and computer engineering.
 
-I like computer vision, controls engineering, and math. Many of my previous projects involved writing controls and computer vision code for the many students that participate in the *FIRST* Robotics Competition and *FIRST* Tech Challenge. I've contributed to [WPILib](https://github.com/wpilibsuite/allwpilib) and [PhotonVision](https://github.com/PhotonVision/photonvision/).
+I like computer vision, controls engineering, and math.
+
+Many of my previous projects involved writing controls and computer vision code for the students that participate in the *FIRST* Robotics Competition and *FIRST* Tech Challenge. I've contributed to [WPILib](https://github.com/wpilibsuite/allwpilib) and [PhotonVision](https://github.com/PhotonVision/photonvision/).
 
 <details>
  <summary>Some of my projects</summary>
