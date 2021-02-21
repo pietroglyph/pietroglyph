@@ -1,6 +1,6 @@
 I'm a student at Olin College of Engineering studying electrical and computer engineering.
 
-I'm interested in robotics, computer vision, controls engineering, systems-level programming, and math. Many of my previous projects involved writing controls and computer vision code for the many students that participate in the *FIRST* Robotics Competition and *FIRST* Tech Challenge.
+Many of my previous projects involved writing controls and computer vision code for the many students that participate in the *FIRST* Robotics Competition and *FIRST* Tech Challenge.
 
 Some of my projects:
 ### *2020*
